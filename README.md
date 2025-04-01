@@ -31,7 +31,7 @@ Passionate about building efficient and innovative software solutions. Always ea
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-
+<!--
 ## 🔥 **Projects**  
 ### 📌 **[Tableware Rental Landing Page](#)** *(Front-End)*  
 🔹 Increased rental requests for tableware  
@@ -43,7 +43,7 @@ Passionate about building efficient and innovative software solutions. Always ea
 
 ### 📌 **[Inventory Control Web App](#)** *(Front-End)*  
 🔹 Real-time management of pallets with multiple SKUs  
-🔹 Technologies: **React, MaterialUI**  
+🔹 Technologies: **React, MaterialUI**-->  
 
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Ortiz-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abrahamortizcastro)  
