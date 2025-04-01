@@ -46,6 +46,6 @@ Passionate about building efficient and innovative software solutions. Always ea
 🔹 Technologies: **React, MaterialUI**-->  
 
 ## 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Ortiz-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/abrahamortizcastro)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abrahamortizcastro)  
 
 ---
