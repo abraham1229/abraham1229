@@ -1,4 +1,4 @@
-# **# 👋 Hi, I'm Abraham Ortiz**  
+# **👋 Hi, I'm Abraham Ortiz**  
 
 ### 🚀 **Software Developer | Robotics & Digital Systems Engineer**  
 Passionate about building efficient and innovative software solutions. Always eager to learn and contribute to impactful projects.  
