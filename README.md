@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Abraham Ortiz  
 
-### 🚀 Full Stack Software Developer  
 Passionate about building efficient and innovative software solutions. Always eager to learn and contribute to impactful projects.  
 
 ###
