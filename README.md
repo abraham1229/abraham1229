@@ -62,11 +62,22 @@ Passionate about building efficient and innovative software solutions. Always ea
 ## 📫 Let's Connect  
 <div align="left">
   <a href="https://www.linkedin.com/in/abrahamortizcastro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <span>
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    </span>
   </a>
   <a href="https://instagram.com/abraham_orca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <span>
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    </span>
+  </a>
+  <a href="mailto:abrahamortizcastro1229@gmail.com" target="_blank">
+    <span>
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+    </span>
   </a>
 </div>
+
+
 
 
